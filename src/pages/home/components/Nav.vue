@@ -20,6 +20,9 @@ export default {
   line-height: 50px;
   box-sizing: border-box;
   padding: 0 20px;
+  @media screen and(max-width:700px){
+    display: none;
+  }
   .inner {
       max-width:1280px;
       margin:0 auto;

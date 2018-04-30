@@ -2,7 +2,6 @@
   <div class="footer">
       <div class="inner">
           2017 text for shop,<a href="https://github.com/chenguohao2017web/">GITHUB</a>
-          
       </div>
   </div>
 </template>
